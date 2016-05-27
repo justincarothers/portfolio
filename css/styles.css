@@ -39,6 +39,7 @@ h6 {
   color: rgba(255, 255, 255, 0.5);
 }
 
+
 /* ========================= JUMBOTRON SETTINGS ================== */
 
 .jumbotron {
@@ -115,16 +116,37 @@ h6 {
 /* ===============================--- BOX BANNER THING --==========*/
 
 
-.bigbox {
+.bigbox > h1 {
   background-color: rgba(255, 0, 0, .4);
+  font-size: 92px;
+  color: rgba(255, 255, 255, 0.5);
+  margin-top: 0px;
+  margin-bottom: 0px;
+  height: 100px;
 }
 
-.bigbox2 {
+.bigbox2 > h1 {
+  width: 100%;
   background-color: rgba(255, 0, 0, .3);
+  font-size: 32px;
+  color: rgba(255, 255, 255, 0.5);
+  margin-top: 0px;
+  margin-bottom: 0px
+
 }
-.bigbox3 {
+.bigbox3 > h1 {
+  width: 100%;
   background-color: rgba(255, 0, 0, .2);
+  font-size: 64px;
+  color: rgba(255, 255, 255, 0.5);
+  margin-top: 0px;
+  margin-bottom: 0px
 }
-.bigbox4 {
+.bigbox4 >h1 {
+  width: 100%;
   background-color: rgba(255, 0, 0, .1);
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.5);
+  margin-top: 0px;
+  margin-bottom: 0px
 }
