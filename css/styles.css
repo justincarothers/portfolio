@@ -135,21 +135,21 @@ h6 {
   margin-bottom: 0px;
   min-height: 130px;
 
-  
+
 
 
 }
 .bigbox3 > h1 {
   width: 100%;
   background-color: rgba(255, 0, 0, .2);
-  font-size: 64px;
+  font-size: 50px;
   color: rgba(255, 255, 255, 0.5);
   margin-top: 0px;
   margin-bottom: 0px;
   height: 100%;
   min-height: 100px;
 }
-.bigbox4 >h1 {
+.bigbox4 > h1 {
   width: 100%;
   background-color: rgba(255, 0, 0, .1);
   font-size: 16px;
@@ -157,4 +157,8 @@ h6 {
   margin-top: 0px;
   min-height: 80px;
   height: 100%;
+}
+
+.hello {
+  text-align: center;
 }
