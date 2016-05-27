@@ -23,6 +23,7 @@ body {
 /*========================== Font SIZE/COLOR/ETC ============*/
 h1 {
   font-size: 128px;
+
 }
 h3 {
   font-size: 10px;
@@ -33,15 +34,21 @@ h5 {
   font-size: 13px; /* used for footer*/
   color: black;
 }
+h6 {
+  font-size: 128px;
+  color: rgba(255, 255, 255, 0.5);
+}
 
-/* ========================= JUMBOTRON/NAVBAR SETTINGS ============== */
+/* ========================= JUMBOTRON SETTINGS ================== */
 
 .jumbotron {
   background-color: rgba(107, 250, 250, 0.1);
+  border-color: #fff;
+  border: solid;
 }
 
 
-
+/*============================ NAVBAR ========================*/
 
                                           /*Change the logo color*/
 
@@ -76,9 +83,9 @@ h5 {
       font-size: 20px;
         border-color: transparent;
         background-color: transparent;
-
         color: #eeeeee;
     }
+  }
 
 /*================================ CAROUSEL =============================*/
 
@@ -102,4 +109,22 @@ h5 {
 
 .footer a {        /*override the color of email so its not hideous. */
   color:black;
+}
+
+
+/* ===============================--- BOX BANNER THING --==========*/
+
+
+.bigbox {
+  background-color: rgba(255, 0, 0, .4);
+}
+
+.bigbox2 {
+  background-color: rgba(255, 0, 0, .3);
+}
+.bigbox3 {
+  background-color: rgba(255, 0, 0, .2);
+}
+.bigbox4 {
+  background-color: rgba(255, 0, 0, .1);
 }
