@@ -1,12 +1,12 @@
-# Project Title
+# Portfolio Landing Page
 
-Portfolio Landing Page
+A gallery of projects created by Justin Carothers. This website also includes ways to contact JC as well as a personal blog.
 
 ## Built With
 
 * HTML5
 * CSS
-* Bootstrap 3 Framework
+* Bootstrap
 * Google
 
 
@@ -21,6 +21,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Baby Jesus
-* Good Luck
-* Bad Luck
+* Google
+* Montucky Cold Snacks
